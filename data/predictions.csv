@@ -1,0 +1,9 @@
+record_id,source_text,predicted_category,category_confidence,predicted_priority,priority_confidence
+R-1001,brake fluid bottle listed as engine lubricant,Fluids,0.91,Normal,0.88
+R-1002,mirror glass backing plate heated passenger side,Exterior,0.96,Normal,0.93
+R-1003,universal service pack cap seal clip and small tool,Engine Cooling,0.23,Normal,0.52
+R-1004,starter cable fusible link block with cover,Electrical,0.94,High,0.71
+R-1005,cabin filter charcoal media pollen fine dust,Cabin Comfort,0.98,Normal,0.95
+R-1006,adapter for cooling system pressure test pump,Tools,0.94,Normal,0.84
+R-1007,front disc pad kit with wear sensor and quiet shim,Brake System,0.99,Normal,0.97
+R-1008,air door actuator passenger temperature blend,Cabin Comfort,0.98,High,0.62

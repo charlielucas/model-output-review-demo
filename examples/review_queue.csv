@@ -1,0 +1,4 @@
+record_id,source_text,predicted_category,category_confidence,predicted_priority,priority_confidence,review_reasons
+R-1003,universal service pack cap seal clip and small tool,Engine Cooling,0.23,Normal,0.52,low category confidence; low priority confidence
+R-1004,starter cable fusible link block with cover,Electrical,0.94,High,0.71,low priority confidence
+R-1008,air door actuator passenger temperature blend,Cabin Comfort,0.98,High,0.62,low priority confidence

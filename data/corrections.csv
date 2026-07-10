@@ -1,0 +1,4 @@
+record_id,final_category,final_priority,review_reason,reviewer_note
+R-1003,Tools,Normal,low category confidence,mixed service pack should not be forced into cooling
+R-1004,Electrical,Normal,low priority confidence,part is important but not urgent by itself
+R-1008,Cabin Comfort,Normal,low priority confidence,priority should stay normal without failure context

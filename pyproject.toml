@@ -1,0 +1,16 @@
+[project]
+name = "model-output-review-demo"
+version = "0.1.0"
+description = "Synthetic model output review and correction workflow"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+model-output-review = "model_output_review.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"

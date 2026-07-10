@@ -1,0 +1,9 @@
+record_id,source_text,predicted_category,category_confidence,predicted_priority,priority_confidence,final_category,final_priority,changed,review_reason,reviewer_note
+R-1001,brake fluid bottle listed as engine lubricant,Fluids,0.91,Normal,0.88,Fluids,Normal,False,,
+R-1002,mirror glass backing plate heated passenger side,Exterior,0.96,Normal,0.93,Exterior,Normal,False,,
+R-1003,universal service pack cap seal clip and small tool,Engine Cooling,0.23,Normal,0.52,Tools,Normal,True,low category confidence,mixed service pack should not be forced into cooling
+R-1004,starter cable fusible link block with cover,Electrical,0.94,High,0.71,Electrical,Normal,True,low priority confidence,part is important but not urgent by itself
+R-1005,cabin filter charcoal media pollen fine dust,Cabin Comfort,0.98,Normal,0.95,Cabin Comfort,Normal,False,,
+R-1006,adapter for cooling system pressure test pump,Tools,0.94,Normal,0.84,Tools,Normal,False,,
+R-1007,front disc pad kit with wear sensor and quiet shim,Brake System,0.99,Normal,0.97,Brake System,Normal,False,,
+R-1008,air door actuator passenger temperature blend,Cabin Comfort,0.98,High,0.62,Cabin Comfort,Normal,True,low priority confidence,priority should stay normal without failure context
